@@ -9,7 +9,6 @@ public class Main {
         System.out.println(someInts);
 //        System.out.println(Arrays.toString(someInts));
 
-        // if you don't declare the values of each element in the Array it defaults them all to 0
 
 //        someInts[0] = 15; //at least we can access the elements with bracket notation
 //        someInts[4] = 4;
